@@ -9,8 +9,6 @@
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Folder Structure](#folder-structure)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
