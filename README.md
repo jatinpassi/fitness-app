@@ -40,7 +40,7 @@ The Fitness Tracker Application is a React-based web application designed to hel
 2. Navigate to the project directory:
 
     ```bash
-    cd Fitness-Tracking-App-UI-React
+    cd fitness-app
     ```
 
 3. Install the dependencies:
